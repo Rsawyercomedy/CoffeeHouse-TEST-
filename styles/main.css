@@ -1,0 +1,13 @@
+.shop {
+     flex-basis: 16%;
+     flex-wrap: wrap;
+    border: 1px dotted black;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center; /* Center align the text in the boxes */
+}
+.interest {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
